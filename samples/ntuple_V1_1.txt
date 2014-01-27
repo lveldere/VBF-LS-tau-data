@@ -9,3 +9,17 @@ VBFSUSY_C1pmC1pm_N1_90_C1_180_Stau_135 /pnfs/desy.de/cms/tier2/store/user/dmarco
 VBFSUSY_C1pmC1pm_N1_0_C1_180_Stau_90 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/VBFSUSY_C1pmC1pm_N1_0_C1_180_Stau_90
 VBFSUSY_C1pmN2_N1_90_C1_180_Stau_135 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/VBFSUSY_C1pmN2_N1_90_C1_180_Stau_135
 VBFSUSY_C1pmC1mp_N1_90_C1_180_Stau_135 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/VBFSUSY_C1pmC1mp_N1_90_C1_180_Stau_135
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau190_Chargino200_FastSim /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau190_Chargino200_FastSim
+QCD_Pt-470to600_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-470to600_TuneZ2star_8TeV_pythia6
+QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6
+QCD_Pt-170to300_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-170to300_TuneZ2star_8TeV_pythia6
+QCD_Pt-50to80_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-50to80_TuneZ2star_8TeV_pythia6
+QCD_Pt-15to30_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-15to30_TuneZ2star_8TeV_pythia6
+QCD_Pt-30to50_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-30to50_TuneZ2star_8TeV_pythia6
+QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6
+QCD_Pt-80to120_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-80to120_TuneZ2star_8TeV_pythia6
+QCD_Pt-120to170_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-120to170_TuneZ2star_8TeV_pythia6
+QCD_Pt-1800_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-1800_TuneZ2star_8TeV_pythia6
+QCD_Pt-300to470_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-300to470_TuneZ2star_8TeV_pythia6
+QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6
+QCD_Pt-600to800_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-600to800_TuneZ2star_8TeV_pythia6
