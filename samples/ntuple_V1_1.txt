@@ -23,3 +23,9 @@ QCD_Pt-1800_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/
 QCD_Pt-300to470_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-300to470_TuneZ2star_8TeV_pythia6
 QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6
 QCD_Pt-600to800_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/QCD_Pt-600to800_TuneZ2star_8TeV_pythia6
+TauParked_amkalsi-2012B /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/TauParked_amkalsi-2012B_DiTauTrigger
+TauParked_amkalsi-2012D_part2 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/TauParked_amkalsi-First_203777_206207_2012D_DiTauTrigger
+Tau-amkalsi-2012A /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/Tau-amkalsi-New_Recipe_2012A_DiTauTrigger
+TauParked_amkalsi-2012C_part2 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/TauParked_amkalsi-2012C_DiTauTrigger_202970_203742
+TauParked_amkalsi-2012C_part1 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/TauParked_amkalsi-2012C_DiTauTrigger_198022-202504
+TauParked_amkalsi-2012D_part1 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/TauParked_amkalsi-Run2012D_LastPart_206208_208686_DiTauTrigger
