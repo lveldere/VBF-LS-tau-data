@@ -39,6 +39,10 @@ VBFToHToZZTo2L2Nu_M-124 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_
 VBF_HToZZTo2L2Q_M-125 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/VBF_HToZZTo2L2Q_M-125_8TeV-powheg-pythia6
 VBF_HToTauTau_M-125 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/VBF_HToTauTau_M-125_8TeV-powheg-pythia6
 WJetsToLNu /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball
+W3JetsToLNu /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/W3JetsToLNu_TuneZ2Star_8TeV-madgraph
+W1JetsToLNu /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/W1JetsToLNu_TuneZ2Star_8TeV-madgraph
+W4JetsToLNu /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/W4JetsToLNu_TuneZ2Star_8TeV-madgraph
+W2JetsToLNu /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/W2JetsToLNu_TuneZ2Star_8TeV-madgraph
 WW /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/WW_TuneZ2star_8TeV_pythia6_tauola
 WZJetsTo2Q2Nu /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/WZJetsTo2Q2Nu_TuneZ2star_8TeV-madgraph-tauloa
 WZJetsTo2L2Q /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/WZJetsTo2L2Q_TuneZ2star_8TeV-madgraph-tauola
