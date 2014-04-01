@@ -57,3 +57,7 @@ ZZJetsTo4L /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/ZZJetsT
 ZZJetsTo2Q2Nu /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/ZZJetsTo2Q2Nu_TuneZ2star_8TeV-madgraph-tauloa
 ZZJetsTo2L2Q /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/ZZJetsTo2L2Q_TuneZ2star_8TeV-madgraph-tauola
 ZZJetsTo2L2Nu /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/ZZJetsTo2L2Nu_TuneZ2star_8TeV-madgraph-tauola
+WW_DoubleScattering /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/WW_DoubleScattering_8TeV-pythia8
+WpWpqq /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/WpWpqq_8TeV-madgraph
+WmWmqq /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_Dec13/WmWmqq_8TeV-madgraph
+
