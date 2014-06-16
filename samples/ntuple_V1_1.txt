@@ -1,4 +1,4 @@
-st your samples as follows:
+# list your samples as follows:
 # nickname /path/to/directory/with/ntuples
 # for ntuples on the storage element do
 # nickname /pnfs/desy.de/cms/tier2/store/....
