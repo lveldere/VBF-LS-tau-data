@@ -24,6 +24,10 @@ QCD_Pt-1800_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/
 QCD_Pt-300to470_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14_part2/QCD_Pt-300to470_TuneZ2star_8TeV_pythia6
 QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14_part2/QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6
 QCD_Pt-600to800_TuneZ2star_8TeV_pythia6 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14_part2/QCD_Pt-600to800_TuneZ2star_8TeV_pythia6
+QCD_HT-1000ToInf /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14_part2/QCD_HT-1000ToInf
+QCD_HT-500To1000 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14_part2/QCD_HT-500To1000
+QCD_HT-250To500 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14_part2/QCD_HT-250To500
+QCD_HT-100To250 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14_part2/QCD_HT-100To250
 TauParked_amkalsi-2012B /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14/TauParked_amkalsi-2012B_DiTauTrigger
 TauParked_amkalsi-2012D_part2 /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14/TauParked_amkalsi-First_203777_206207_2012D_DiTauTrigger
 Tau-amkalsi-2012A /pnfs/desy.de/cms/tier2/store/user/dmarconi/VBF_ntuples_June14/Tau-amkalsi-New_Recipe_2012A_DiTauTrigger
