@@ -1,0 +1,37 @@
+# list your samples as follows:
+# nickname /path/to/directory/with/ntuples
+# for ntuples on the storage element do
+# nickname /pnfs/desy.de/cms/tier2/store/....
+
+DYJetsToLL_M-50_13TeV-madgraph-pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/DYJetsToLL_M-50_13TeV-madgraph-pythia8
+DYJetsToLL_M-50_13TeV-madgraph-pythia8-tauola_v2 /nfs/dust/cms/user/dmarconi/workdir/samples/DYJetsToLL_M-50_13TeV-madgraph-pythia8-tauola_v2
+DYJetsToLL_M-50_HT-100to200_Tune4C_13TeV-madgraph-tauola /nfs/dust/cms/user/dmarconi/workdir/samples/DYJetsToLL_M-50_HT-100to200_Tune4C_13TeV-madgraph-tauola
+DYJetsToLL_M-50_HT-200to400_Tune4C_13TeV-madgraph-tauola /nfs/dust/cms/user/dmarconi/workdir/samples/DYJetsToLL_M-50_HT-200to400_Tune4C_13TeV-madgraph-tauola
+DYJetsToLL_M-50_HT-400to600_Tune4C_13TeV-madgraph-tauola /nfs/dust/cms/user/dmarconi/workdir/samples/DYJetsToLL_M-50_HT-400to600_Tune4C_13TeV-madgraph-tauola
+DYJetsToLL_M-50_HT-600toInf_Tune4C_13TeV-madgraph-tauola /nfs/dust/cms/user/dmarconi/workdir/samples/DYJetsToLL_M-50_HT-600toInf_Tune4C_13TeV-madgraph-tauola
+QCD_Pt-1000to1400_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-1000to1400_Tune4C_13TeV_pythia8
+QCD_Pt-120to170_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-120to170_Tune4C_13TeV_pythia8
+QCD_Pt-1400to1800_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-1400to1800_Tune4C_13TeV_pythia8
+QCD_Pt-15to30_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-15to30_Tune4C_13TeV_pythia8
+QCD_Pt-170to300_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-170to300_Tune4C_13TeV_pythia8
+QCD_Pt-1800to2400_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-1800to2400_Tune4C_13TeV_pythia8
+QCD_Pt-2400to3200_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-2400to3200_Tune4C_13TeV_pythia8
+QCD_Pt-300to470_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-300to470_Tune4C_13TeV_pythia8
+QCD_Pt-30to50_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-30to50_Tune4C_13TeV_pythia8
+QCD_Pt-3200_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-3200_Tune4C_13TeV_pythia8
+QCD_Pt-470to600_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-470to600_Tune4C_13TeV_pythia8
+QCD_Pt-50to80_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-50to80_Tune4C_13TeV_pythia8
+QCD_Pt-600to800_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-600to800_Tune4C_13TeV_pythia8
+QCD_Pt-800to1000_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-800to1000_Tune4C_13TeV_pythia8
+QCD_Pt-80to120_Tune4C_13TeV_pythia8 /nfs/dust/cms/user/dmarconi/workdir/samples/QCD_Pt-80to120_Tune4C_13TeV_pythia8
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau095_Chargino100_13TeV /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau095_Chargino100/ntuples
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau195_Chargino200_13TeV /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau195_Chargino200/ntuples
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau295_Chargino300_13TeV /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau295_Chargino300/ntuples
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau095_Chargino100_13TeV /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau095_Chargino100/ntuples
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau195_Chargino200_13TeV /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau195_Chargino200/ntuples
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau295_Chargino300_13TeV /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau295_Chargino300/ntuples
+WJetsToLNu_13TeV-madgraph-pythia8-tauola /nfs/dust/cms/user/dmarconi/workdir/samples/WJetsToLNu_13TeV-madgraph-pythia8-tauola
+WJetsToLNu_HT-100to200_Tune4C_13TeV-madgraph-tauola /nfs/dust/cms/user/dmarconi/workdir/samples/WJetsToLNu_HT-100to200_Tune4C_13TeV-madgraph-tauola
+WJetsToLNu_HT-200to400_Tune4C_13TeV-madgraph-tauola /nfs/dust/cms/user/dmarconi/workdir/samples/WJetsToLNu_HT-200to400_Tune4C_13TeV-madgraph-tauola
+WJetsToLNu_HT-400to600_Tune4C_13TeV-madgraph-tauola /nfs/dust/cms/user/dmarconi/workdir/samples/WJetsToLNu_HT-400to600_Tune4C_13TeV-madgraph-tauola
+WJetsToLNu_HT-600toInf_Tune4C_13TeV-madgraph-tauola /nfs/dust/cms/user/dmarconi/workdir/samples/WJetsToLNu_HT-600toInf_Tune4C_13TeV-madgraph-tauola

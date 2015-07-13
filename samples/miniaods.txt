@@ -4,7 +4,12 @@
 # nickname /pnfs/desy.de/cms/tier2/store/....
 
 
-VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau195_Chargino200_MINIAODSIM /nfs/dust/cms/user/dmarconi/workdir/gridcontrol_makeSamples/results/MINIAOD/
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau095_Chargino100 /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau095_Chargino100/MINIAODSIM/
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau195_Chargino200 /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau195_Chargino200/MINIAODSIM/
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau295_Chargino300 /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP000_Stau295_Chargino300/MINIAODSIM/
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau095_Chargino100 /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau095_Chargino100/MINIAODSIM/
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau195_Chargino200 /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau195_Chargino200/MINIAODSIM/
+VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau295_Chargino300 /nfs/dust/cms/user/dmarconi/workdir/samples/VBFC1pmN2_C1ToTau_N2ToTauTau_LSP050_Stau295_Chargino300/MINIAODSIM/
 
 QCD_Pt-1000to1400_Tune4C_13TeV_pythia8 /pnfs/desy.de/cms/tier2/store/mc/Phys14DR/QCD_Pt-1000to1400_Tune4C_13TeV_pythia8/MINIAODSIM/
 QCD_Pt-120to170_Tune4C_13TeV_pythia8 /pnfs/desy.de/cms/tier2/store/mc/Phys14DR/QCD_Pt-120to170_Tune4C_13TeV_pythia8/MINIAODSIM/
